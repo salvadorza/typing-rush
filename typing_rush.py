@@ -14,7 +14,27 @@ frases = [
     "El rápido zorro marrón salta sobre el perro perezoso.",
     "Aprender a programar es un desafío divertido.",
     "Python es un lenguaje de programación versátil.",
-    "Las interfaces gráficas hacen los programas interactivos."
+    "Las interfaces gráficas hacen los programas interactivos.",
+    "El código limpio es clave para mantener proyectos escalables.",
+    "La depuración de errores es parte esencial del desarrollo de software.",
+    "Los bucles son fundamentales en la programación estructurada.",
+    "La práctica constante mejora la velocidad al escribir.",
+    "Las habilidades de mecanografía son útiles en el mundo digital.",
+    "Practicar frases variadas mejora la precisión en el teclado.",
+    "El aprendizaje constante es el camino hacia el éxito.",
+    "Equivocarse es una oportunidad para aprender algo nuevo.",
+    "La curiosidad es el motor del aprendizaje constante.",
+    "Las montañas cubiertas de nieve son un espectáculo hermoso.",
+    "Los buenos hábitos se construyen con esfuerzo y repetición.",
+    "La jerarquía de archivos en Linux sigue un orden lógico.",
+    "Las soluciones asíncronas son útiles en programación moderna.",
+    "La diversidad biológica es clave para los ecosistemas saludables.",
+    "La transición energética busca fuentes renovables y sostenibles.",
+    "El teclado mecánico ofrece una experiencia táctil única al escribir.",
+    "El astuto ladrón esquivó ágilmente los obstáculos del camino.",
+    "Las crónicas antiguas narran historias de dragones y caballeros."
+
+
 ]
 
 inicio = None  # Variable global para el temporizador
