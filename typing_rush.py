@@ -48,7 +48,6 @@ def mostrar_frase():
     
 # Con esta funcion le damos la opcion al usuario de seleccionar todo el texto con control-a
 def seleccionar_todo(event):
-    """Seleccionar todo el texto en el campo de entrada."""
     entrada.select_range(0, tk.END) 
     return "break" 
 
@@ -84,7 +83,7 @@ boton.place(relx=0.5, rely=0.15, anchor="center", relheight=0.058, relwidth=0.15
 
 label2 = tk.Label(raiz, text="", font=("Helvetica", 16, "normal"),
                   bg="#c9fff6", height=2, width=60)
-label2.place(relx=0.5, rely=0.25, anchor="center", relheight=0.058, relwidth=0.7)
+label2.place(relx=0.5, rely=0.25, anchor="center", relheight=0.058, relwidth=0.9)
 
 label3 = tk.Label(raiz, text="", font=("Helvetica", 16, "normal"),
                   bg="#c9fff6", height=2, width=60, fg="red")
